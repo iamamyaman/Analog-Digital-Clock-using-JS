@@ -1,6 +1,7 @@
-# Analog and Digital clock using js
+# Javascript fun project
+I have created some small javascript projects in this repository for fun.
+I really enjoyed playing with DOM.
 
-I have made a simple analog and digital clock using html,css and javascript.
-You can see it live here-
+Digital and Analog Clock using JS
 https://timebyaman.netlify.app/
 https://codepen.io/aman0078/pen/WNXpBwg
