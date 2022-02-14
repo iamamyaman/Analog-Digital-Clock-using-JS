@@ -5,3 +5,6 @@ I really enjoyed playing with DOM.
 Digital and Analog Clock using JS
 https://timebyaman.netlify.app/
 https://codepen.io/aman0078/pen/WNXpBwg
+
+DOZY PLAYER(A custom Video Player) -- https://dozyplayer.netlify.app/
+
