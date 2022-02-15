@@ -8,3 +8,5 @@ https://codepen.io/aman0078/pen/WNXpBwg
 
 DOZY PLAYER(A custom Video Player) -- https://dozyplayer.netlify.app/
 
+SPEECH RECOGNITION WEBSITE -- https://speechrecognitionappbyaman.netlify.app/
+
