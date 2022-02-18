@@ -16,25 +16,25 @@ body{
 }
 
 span{
-    font-size: 30px;
+    font-size: 2rem;
     font-family: Quicksand;
     font-weight: bold;
     
 }
 
 span>p{
-    font-size: 15px;
+    font-size: 1rem;
     text-align: center;
     color:black;
 }
 
 img{
-    height: 40px;
-    margin-top: -50px;
+    height: 7%;
+    margin-top: -5rem;
 }
 .main{
-    width: 500px;
-    height: 500px;
+    width: 40rem;
+    height: 50%;
     margin-top: 30px;
     padding: 20px;
     border: solid 10px cornflowerblue;
