@@ -13,3 +13,8 @@ SPEECH RECOGNITION WEBSITE -- https://speechrecognitionappbyaman.netlify.app/
 TODO-LIST -- https://createyourtodolist.netlify.app/
 
 RESPONSIVE SLIDING NAVBAR - https://responsiveslidernavbar.netlify.app/
+
+TEXT SHADOW MOVER : https://textshadowmover.netlify.app/
+
+
+
