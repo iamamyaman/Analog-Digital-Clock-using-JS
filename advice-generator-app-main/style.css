@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: hsl(218, 23%, 16%);
+}
+
+.box{
+    padding: 25px;
+    padding-bottom: 70px;
+    display: flex;
+    gap:15px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(217, 19%, 24%);
+    border-radius: 10px;
+    position: relative;
+
+}
+
+#advice-no{
+color:hsl(150, 100%, 66%);
+font-family: Manrope;
+font-size: 8px;
+letter-spacing: 5px;
+}
+
+#advice-text{
+    font-family: Manrope;
+    font-size: 20px;
+    text-align: center;
+    line-height: 25px;
+    color:white;
+    margin-bottom: 20px;
+}
+
+
+.dice-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: hsl(150, 100%, 66%);
+    border-radius: 50%;
+    padding: 15px;
+    position: absolute;
+    bottom:0;
+    transform: translateY(50%);
+    cursor: pointer;
+
+}
