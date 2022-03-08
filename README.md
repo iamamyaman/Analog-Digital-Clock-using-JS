@@ -16,5 +16,6 @@ RESPONSIVE SLIDING NAVBAR - https://responsiveslidernavbar.netlify.app/
 
 TEXT SHADOW MOVER : https://textshadowmover.netlify.app/
 
+ADVICE GENERATOR APP : https://getsomeadvicee.netlify.app/
 
 
