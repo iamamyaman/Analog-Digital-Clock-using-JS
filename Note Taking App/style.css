@@ -73,16 +73,19 @@ label{
     padding: 5px 10px;
     border-style: none;
     border-radius: 10px;
-    background-color: black;
+    background-color: #B17AED;
     color:white;
     font-weight: 700;
+    font-size: 12px;
 }
 
 .note{
-    padding: 10px;
+    padding: 10px 20px;
     width:70%;
     border-radius: 5px;
     background-color: white;
+    color:#210142;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
     
 }
 
