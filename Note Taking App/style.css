@@ -20,7 +20,7 @@ body{
 }
 
 .input--title{
-    width:800px;
+    width:100%;
     outline: none;
     background-color: white;
     border-radius: 20px;
@@ -35,10 +35,11 @@ label{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     padding-bottom: 10px;
     font-size: large;
+    width:70%;
 }
 
 .input--content{
-    width:800px;
+    width:100%;
     padding: 10px;
     height: 300px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;

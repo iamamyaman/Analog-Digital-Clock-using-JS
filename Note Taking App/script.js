@@ -29,6 +29,7 @@ function addNotes(e){
     deleteBtn.classList.add("delete")
     noteTitle.classList.add("note--title")
     noteContent.classList.add("note--content")
+
     }
 
     else{
@@ -41,6 +42,7 @@ function addNotes(e){
 
 
 button.addEventListener("click",addNotes)
+
 notes.addEventListener("click",(e)=> {
     e.preventDefault()
     if(e.target.className ==="delete"){
@@ -50,3 +52,4 @@ notes.addEventListener("click",(e)=> {
     }
     }
 )
+
