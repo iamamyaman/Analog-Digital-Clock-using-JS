@@ -38,9 +38,6 @@ function addNotes(e){
 
 }
 
-
-
-
 button.addEventListener("click",addNotes)
 
 notes.addEventListener("click",(e)=> {
