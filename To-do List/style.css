@@ -33,6 +33,13 @@
     background:rgb(200,73,217);
   background: radial-gradient(circle, rgba(159,73,217,1) 0%, rgba(252,71,71,1) 50%, rgba(255,180,75,1) 100%);
   }
+
+  @media screen  and (max-width:400px){
+    #todo-list{
+      width:90%;
+      font-size: 17px;
+    }
+  }
   
   li{
     display:flex;
