@@ -13,7 +13,7 @@ body{
 }
 
 .box{
-    width:500px;
+    width:40%;
     padding: 25px;
     padding-bottom: 70px;
     display: flex;
@@ -26,6 +26,13 @@ body{
     position: relative;
 
 }
+
+@media screen  and (max-width:400px){
+    .box{
+        width:90%;
+    }
+}
+
 
 #advice-no{
 color:hsl(150, 100%, 66%);
@@ -42,7 +49,9 @@ letter-spacing: 5px;
     color:white;
     margin-bottom: 20px;
 }
-
+.divider{
+    width:100%;
+}
 
 .dice-box{
     display: flex;
